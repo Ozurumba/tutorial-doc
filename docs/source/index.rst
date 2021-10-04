@@ -1,10 +1,7 @@
 Welcome to CurrentPrice documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**CurrentPrice** Current price Nigeria provides market price trends at your fingertips. The online platform allows clients and users, Access to real-time food market price data, follow consumer demand trends and explore market opportunities.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -20,3 +17,6 @@ Contents
 
    usage
    api
+   admin
+   fmcg
+   mobile
