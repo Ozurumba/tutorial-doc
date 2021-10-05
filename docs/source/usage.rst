@@ -21,7 +21,7 @@ To use Admin Web, first clone repo then install using npm:
   To run code .. 
    
    
- Installation for fmcg web 
+Installation for fmcg web 
 ------------
  
  
