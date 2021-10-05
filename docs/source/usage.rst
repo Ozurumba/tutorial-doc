@@ -16,7 +16,7 @@ To use Admin Web, first clone repo then install using npm:
    
 .. code-block:: console
 
-   (.env) $ ng serve
+  $ ng serve
    
   To run code .. 
    
@@ -34,9 +34,9 @@ To launch, first clone the repo then install it using npm:
 File Structure
 ----------------
 
-Angular Application Source
-Bootstrap
-Configuration Files
+>> Angular Application Source
+>> Bootstrap
+>> Configuration Files
 
 Image Structure
 ----------------
