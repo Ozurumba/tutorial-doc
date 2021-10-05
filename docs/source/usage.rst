@@ -34,11 +34,13 @@ To launch, first clone the repo then install it using npm:
 File Structure
 ----------------
 
-<ul>
-<li> Angular Application Source </li>
-<li> Bootstrap </li>
-<li> Configuration Files </li>
-</ul>
+
+ Angular Application Source 
+ 
+ Bootstrap 
+ 
+ Configuration Files 
+
 
 
 Image Structure
