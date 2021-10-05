@@ -12,13 +12,12 @@ To use Admin Web, first clone repo then install using npm:
 
   $ npm install
    
- To install all dependencies ..
    
+To run code on Localhost 
+ 
 .. code-block:: console
 
-  $ ng serve
-   
-  To run code .. 
+   $ ng serve  
    
    
 Installation for fmcg web 
@@ -30,6 +29,12 @@ To launch, first clone the repo then install it using npm:
 .. code-block:: console
 
    $ npm install 
+   
+To run code on Localhost 
+ 
+.. code-block:: console
+
+   $ ng serve  
    
    
 Installation for Mobile 
