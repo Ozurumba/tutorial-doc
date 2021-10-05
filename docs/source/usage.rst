@@ -3,7 +3,21 @@ Usage
 
 .. _installation:
 
-Installation
+Installation for admin web 
+------------
+
+To use Admin Web, first clone repo then install using npm:
+
+.. code-block:: console
+
+   (.venv) $ npm install
+   
+ .. code-block:: console
+
+   (.venv) $ ng serve
+   
+   
+ Installation for fmcg web 
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,19 +26,16 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+File Structure
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+Angular Application Source
+Bootstrap
+Configuration Files
 
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
+Image Structure
+----------------
+Images are hosted on cloudinary : 
 
 For example:
 
