@@ -12,14 +12,20 @@ To use Admin Web, first clone repo then install using npm:
 
    (.venv) $ npm install
    
- .. code-block:: console
+ To run code ..
+   
+.. code-block:: console
 
    (.venv) $ ng serve
    
    
  Installation for fmcg web 
 ------------
+.. code-block:: console
 
+   (.venv) $ npm install
+ 
+ 
 To use Lumache, first install it using pip:
 
 .. code-block:: console
