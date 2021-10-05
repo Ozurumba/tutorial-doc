@@ -45,7 +45,7 @@ File Structure
 
 Image Structure
 ----------------
-Images are hosted on cloudinary : 
+Images are hosted on cloudinary : CLOUDINARY_URL=cloudinary://481988567276325:Nx6DtH-Ug41lv9u3tRNenespnVg@dpsujx7rk
 
 For example:
 
