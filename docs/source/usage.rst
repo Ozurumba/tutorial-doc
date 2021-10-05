@@ -10,14 +10,15 @@ To use Admin Web, first clone repo then install using npm:
 
 .. code-block:: console
 
-   (.venv) $ npm install
+  $ npm install
    
- To run code ..
+ To install all dependencies ..
    
 .. code-block:: console
 
-   (.venv) $ ng serve
+   (.env) $ ng serve
    
+  To run code .. 
    
  Installation for fmcg web 
 ------------
