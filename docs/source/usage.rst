@@ -30,6 +30,25 @@ To launch, first clone the repo then install it using npm:
 .. code-block:: console
 
    $ npm install 
+   
+   
+Installation for Mobile 
+------------
+ 
+ 
+To launch, first clone the repo then install it using npm:
+
+.. code-block:: console
+
+   $ npm install    
+
+
+To launch app:
+
+.. code-block:: console
+
+   $ ionic serve    
+
 
 File Structure
 ----------------
