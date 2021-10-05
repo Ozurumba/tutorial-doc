@@ -9,6 +9,14 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
+   
+App Component
+--------
+Currentprice fmcg
+
+Currentprice Admin
+
+Currentprice Mobile
 
 Contents
 --------
