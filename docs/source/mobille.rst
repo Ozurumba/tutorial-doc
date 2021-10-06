@@ -13,7 +13,7 @@ View Users
 <img src="https://res.cloudinary.com/dpsujx7rk/image/upload/v1629732230/Screenshot_from_2021-08-23_16-04-13_eab49w.png">
 
 .. image:: https://res.cloudinary.com/dpsujx7rk/image/upload/v1629732230/Screenshot_from_2021-08-23_16-04-13_eab49w.png
-  :width: 400
+  :width: auto
   :alt: Alternative text
 
 
