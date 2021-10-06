@@ -2,17 +2,17 @@
 Mobile App Documentation
 =====
 
-**Admin** Currentprice is the platform used to Create/ Edit/ Duplicate/ Delete the following :
+**Mobile** Currentprice is the platform used by currentprice agents/ surveyors in different geolocations in different states to do the following :
 
-Surveys 
-Categories
-Brands
-Locations
-View Users
+Fill Surveys 
+Capture Real time images of commodities / brands
+Update real time Prices of brands
+Notify company on new brands or commodities in the market
+Make comments of commodities / brands
 
-<img src="https://res.cloudinary.com/dpsujx7rk/image/upload/v1629732230/Screenshot_from_2021-08-23_16-04-13_eab49w.png">
 
-.. image:: https://res.cloudinary.com/dpsujx7rk/image/upload/v1629732230/Screenshot_from_2021-08-23_16-04-13_eab49w.png
+
+.. image:: https://res.cloudinary.com/dpsujx7rk/image/upload/v1633503626/WhatsApp_Image_2021-10-05_at_11.53.11_llxtm1.jpg
   :width: 600
   :alt: Alternative text
 
@@ -22,11 +22,11 @@ View Users
 Installation
 ------------
 
-To use the admin, first install it using pip:
+To use the mobile, first install it using npm:
 
 .. code-block:: console
 
-   (.venv) $ npm install
+   $ npm install
 
 Creating recipes
 ----------------
