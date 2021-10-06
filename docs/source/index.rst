@@ -28,3 +28,4 @@ Contents
    admin
    fmcg
    mobile
+   database
