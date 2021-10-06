@@ -1,5 +1,5 @@
 
-Fmcg Current Price Documentation
+Database CurrentPrice Documentation
 =====
 
 **Admin** Currentprice is the platform used to Create/ Edit/ Duplicate/ Delete the following :
