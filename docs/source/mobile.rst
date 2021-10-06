@@ -76,4 +76,20 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+Architecture Requirements
+----------------
+
+Currentprice Mobile App is ran backend using some core technologies :
+
+Capacitor
+
+Cordova Geolocation
+
+Google Live-Maps
+
+Native Camera
+
+Firebase
+
+
 
