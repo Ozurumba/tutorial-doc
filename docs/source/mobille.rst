@@ -17,7 +17,7 @@ Make comments of commodities / brands
 
 
 .. image:: https://res.cloudinary.com/dpsujx7rk/image/upload/v1633503626/WhatsApp_Image_2021-10-05_at_11.53.11_llxtm1.jpg
-  :width: 400
+  :width: 200
   :height: 400
   :alt: Alternative text
 
