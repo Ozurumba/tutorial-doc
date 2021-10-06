@@ -10,6 +10,8 @@ Brands
 Locations
 View Users
 
+<img src="https://res.cloudinary.com/dpsujx7rk/image/upload/v1629732230/Screenshot_from_2021-08-23_16-04-13_eab49w.png">
+
 
 .. _installation:
 
