@@ -26,7 +26,7 @@ Creating recipes
 ----------------
 
 .. image:: https://res.cloudinary.com/dpsujx7rk/image/upload/v1634031978/word-image-6_vvxuqi.png
-  :width: 200
+  :width: 600
   :height: 400
   :alt: Alternative text
 
