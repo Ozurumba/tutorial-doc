@@ -25,6 +25,11 @@ To use the admin, first install it using pip:
 Creating recipes
 ----------------
 
+.. image:: https://res.cloudinary.com/dpsujx7rk/image/upload/v1634031978/word-image-6_vvxuqi.png
+  :width: 200
+  :height: 400
+  :alt: Alternative text
+
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
 
