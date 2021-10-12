@@ -21,8 +21,15 @@ To use the admin, first install it using pip:
 .. code-block:: console
 
    (.venv) $ npm install
+   
+   
+   
+Architecture & Design
+----------------
 
-Creating recipes
+
+
+User Story Description
 ----------------
 
 To retrieve a list of random ingredients,
@@ -36,10 +43,19 @@ will raise an exception.
 
 .. autoexception:: lumache.InvalidKindError
 
+
+Product User Documentation
+----------------
+
 For example:
 
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+Quick Start Guide
+----------------
 
+
+Embeded Assistance
+----------------
