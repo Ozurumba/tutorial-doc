@@ -2,13 +2,8 @@
 Database CurrentPrice Documentation
 =====
 
-**Admin** Currentprice is the platform used to Create/ Edit/ Duplicate/ Delete the following :
+**The Database** Of Currentprice is in an SQL architecture, we use Microsoft MySQL. We use Redshift as our data warehouse, it makes it as easy to gain new insights from all data. With Redshift, we can query and combine exabytes of structured and semi-structured data across your data warehouse.
 
-Surveys 
-Categories
-Brands
-Locations
-View Users
 
 
 .. _installation:
@@ -16,13 +11,9 @@ View Users
 Installation
 ------------
 
-To use the admin, first install it using pip:
+The database can be run using Myworkbench or DBeaver CE
 
-.. code-block:: console
-
-   (.venv) $ npm install
-
-Creating recipes
+Architecture
 ----------------
 
 .. image:: https://res.cloudinary.com/dpsujx7rk/image/upload/v1634031978/word-image-6_vvxuqi.png
@@ -30,22 +21,7 @@ Creating recipes
   :height: 400
   :alt: Alternative text
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
 
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
-
+Monitoring
+------------
 
