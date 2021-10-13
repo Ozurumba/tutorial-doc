@@ -2,7 +2,7 @@
 Fmcg Current Price Documentation
 =====
 
-**Admin** Currentprice is the platform used to Create/ Edit/ Duplicate/ Delete the following :
+**Fmcg** Currentprice is the platform used to Create/ Edit/ Duplicate/ Delete the following :
 
 Surveys 
 Categories
@@ -20,7 +20,7 @@ To use the admin, first install it using pip:
 
 .. code-block:: console
 
-   (.venv) $ npm install
+  $ npm install
    
    
    
@@ -30,7 +30,7 @@ Architecture & Design
 
 Payment Architecture
 ----------------
-
+Paystack implementations was done for the payment API
 
 User Story Description
 ----------------
