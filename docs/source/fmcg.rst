@@ -27,7 +27,7 @@ To use the admin, first install it using pip:
 Architecture & Design
 ----------------
 .. image:: https://res.cloudinary.com/dpsujx7rk/image/upload/v1634765627/external-content.duckduckgo.com_iwadyk.png
-  :width: 400
+  :width: 500
   :height: 400
   :alt: Alternative text
 
