@@ -26,7 +26,10 @@ To use the admin, first install it using pip:
    
 Architecture & Design
 ----------------
-
+.. image:: https://res.cloudinary.com/dpsujx7rk/image/upload/v1634765627/external-content.duckduckgo.com_iwadyk.png
+  :width: 200
+  :height: 400
+  :alt: Alternative text
 
 Payment Architecture
 ----------------
@@ -48,8 +51,8 @@ User can see trended graph of brands in a year
 
 .. autofunction:: lumache.get_random_ingredients
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
+The ``Commodities Subscription`` Data Analysis based on:  ``"Location"``, ``"Time"``,
+or ``"Brands"``. Otherwise, :py:func:`lumache.get_commodities`
 will raise an exception.
 
 .. autoexception:: lumache.InvalidKindError
