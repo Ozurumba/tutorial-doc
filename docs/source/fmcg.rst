@@ -38,8 +38,7 @@ User Story Description
 ----------------
 
 
-
-.. autofunction::User Signs Up => User Chooses Subscription => User Chooses Commodities => User Chooses brands => User makes payment 
+User Signs Up => User Chooses Subscription => User Chooses Commodities => User Chooses brands => User makes payment 
 
 
 User can see trended graph on commodities
