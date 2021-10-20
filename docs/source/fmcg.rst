@@ -45,8 +45,11 @@ User Signs Up => User Chooses Subscription => User Chooses Commodities => User C
 
 
 User can see trended graph on commodities
+
 User can see trended graph on brands
+
 User can see trended graph of commodities against different markets
+
 User can see trended graph of brands in a year
 
 .. autofunction:: lumache.get_random_ingredients
@@ -63,12 +66,10 @@ Product User Documentation
 
 For example:
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+>>> import Commodities
+>>> lumache.get_random_brands()
+['rice', 'beans', 'wheat']
 
-Quick Start Guide
-----------------
 
 
 Embeded Assistance
