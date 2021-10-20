@@ -37,7 +37,12 @@ Payments are made based on subscription plans
 User Story Description
 ----------------
 
+
+.. code-block:: console
+
 User Signs Up => User Chooses Subscription => User Chooses Commodities => User Chooses brands => User makes payment 
+
+
 User can see trended graph on commodities
 User can see trended graph on brands
 User can see trended graph of commodities against different markets
