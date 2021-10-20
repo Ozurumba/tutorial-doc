@@ -38,9 +38,8 @@ User Story Description
 ----------------
 
 
-.. code-block:: console
 
-User Signs Up => User Chooses Subscription => User Chooses Commodities => User Chooses brands => User makes payment 
+.. autofunction::User Signs Up => User Chooses Subscription => User Chooses Commodities => User Chooses brands => User makes payment 
 
 
 User can see trended graph on commodities
