@@ -21,7 +21,7 @@ To use the admin, first install it using pip:
 
    (.venv) $ npm install
 
-Creating recipes
+Architecture
 ----------------
 
 To retrieve a list of random ingredients,
