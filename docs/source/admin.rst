@@ -29,8 +29,8 @@ you can use the ``lumache.get_random_ingredients()`` function:
 
 .. autofunction:: lumache.get_random_ingredients
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
+The ``kind`` parameter should be either ``"commodity"``, ``"brand"``, ``"locations"``,
+or ``"brands"``. Otherwise, :py:func:`lumache.get_random_commodities
 will raise an exception.
 
 .. autoexception:: lumache.InvalidKindError
@@ -38,7 +38,7 @@ will raise an exception.
 For example:
 
 >>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+>>> lumache.get_random_commodities()
+['brands', 'commodities', 'parsley']
 
 
