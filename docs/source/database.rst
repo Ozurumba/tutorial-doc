@@ -37,7 +37,7 @@ menu functions depends on user’s level.
 
 3 View/add/edit/delete records
 This function allows the admin to view/add/edit/delete records in the appropriate categories of the
-DB. System has four main databases: “Employees”, “Assets”, “Manager”, and
+DB. System has four main databases: “Surveyor”, “Assets”, “Manager”, and
 “Assets_Allocation”.
 
 4 Create new type of asset
@@ -46,7 +46,7 @@ This function allows the admin with to create a new type of asset.
 5 Assign asset/employee to employee/manager
 This function allows the user with appropriate permissions to assign:
  asset(s) to employee
- employee(s) to manager
+ surveyor(s) to manager
 Asset Management System
 
 6 Add new request
@@ -97,8 +97,8 @@ program must faciliatate the speed and ease of input.
 
 17 General Constraints
 Constraints include an easy to use interface for the program through forms, a Windows
-platform. Our system is implemented in Java. To install and execute the asset
-management system, JVM is required.
+platform. Our system is implemented in Angular. To install and execute the asset
+management system, NPM is required.
 
 Performance Requirements
 ----------------
